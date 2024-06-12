@@ -1,2 +1,3 @@
-# coursera-repo
-Practice project using/learning Git
+mini change 
+coursera-repo
+Practicing vim through Git.
